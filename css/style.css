@@ -13,4 +13,24 @@ body{
 .margin {
     /*A diferença entre margin e padding é que o margin-top vai criar uma margem externa deixando um espaço branco entre os elemento, já o padding-top vai ser uma margem externa em que vai ser dentro daquele container sem deixar um espaço em branco entre os elementos*/   
     padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #58F4F4;
+    color: white;
+}
+
+.servicos {
+    background-color: #000044;
+    color: white
+}
+
+.servicos p {
+    color: #58F4F4;
+}
+
+.bg-footer {
+    background-color: #000000;
+    color: white;
 }
